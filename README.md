@@ -19,4 +19,7 @@ It also includes how I caculated the travel time used in shiny.
 But It can not be run because I did not upload the raw data which is too large to upload.
 
 ##LR_selected.zip
-LR_selected.zip can not be upload because it is still larger than 25MB
+LR_selected.zip can not be upload because it is still larger than 25MB.
+
+##MA615_final_report.pdf
+MA615_final_report.pdf can be opened by download.
