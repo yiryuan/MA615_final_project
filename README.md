@@ -17,3 +17,6 @@ LR_selected,BUS_selected,Ferry_selected are used to run MA615_final_report.Rmd.
 Data_clean_Final_Project.R is a file that I used to clean and select data from raw data.
 It also includes how I caculated the travel time used in shiny.
 But It can not be run because I did not upload the raw data which is too large to upload.
+
+##LR_selected.zip
+LR_selected.zip can not be upload because it is still larger than 25MB
